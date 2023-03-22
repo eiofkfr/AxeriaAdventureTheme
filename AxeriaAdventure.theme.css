@@ -1,0 +1,23 @@
+/**
+* @name AxeriaAdventure
+* @version Auto Update
+* @description Created By - JustFries204#4215
+* @author JustFries204#4215
+* @invite https://discord.gg/hMKyTVeaSX
+*/
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
+@import url('https://fonts.googleapis.com/css2?family=Anton');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+:root {
+--roundness: 50px;
+--main-color: #BD0000FF;
+--hover-color: #9B0000FF;
+--home-color: #EE0000FF;
+--home-size: 24px;
+--shadow: #00000090;
+--background-image: url('https://i.imgur.com/Gaec4nz.png');
+--background-blur: 3px;
+--background-darkness: 0.8;
+--popup-background: url('https://i.imgur.com/VlDlcey.png');
+--customFont: 'Anton';
+}
